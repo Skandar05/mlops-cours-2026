@@ -1,0 +1,5 @@
+# Dossiers que DVC n'a pas besoin de parcourir quand il cherche
+# les dvc.yaml et les fichiers .dvc du repo.
+.venv/
+features/data/
+mlruns/
